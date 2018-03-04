@@ -1,0 +1,22 @@
+body
+{
+	background-color: beige;
+}
+
+#square
+{
+	background-color: red;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	
+}
+
+#circle
+{
+	background-color: green;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	border-radius: 25px;
+}
